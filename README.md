@@ -1,3 +1,3 @@
 # NLP
 
-Notebooks of use cases in Natural Language Process
+Notebooks for use cases in Natural Language Process
